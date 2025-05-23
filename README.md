@@ -61,9 +61,5 @@ streamlit run app.py
  - Internet connection (yeah bro)
  - Permissions to write in the chosen download folder
 ---
-## Let me know if you'd like to add:
-- 📷 Screenshot placeholder (I can help generate a mock)
-- 🚨 Troubleshooting section
-- 🌍 Deploying on the web with Streamlit Cloud or similar
-
-Let’s make this README fire. 🔥
+## Author
+- Yadhnika Wakde
