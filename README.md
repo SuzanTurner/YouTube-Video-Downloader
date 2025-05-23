@@ -61,5 +61,3 @@ streamlit run app.py
  - Internet connection (yeah bro)
  - Permissions to write in the chosen download folder
 ---
-## Author
-- Yadhnika Wakde
